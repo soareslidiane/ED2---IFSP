@@ -1,0 +1,15 @@
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.csproj.AssemblyReference.cache
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.AssemblyInfoInputs.cache
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.AssemblyInfo.cs
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.csproj.CoreCompileInputs.cache
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\bin\Debug\net6.0\AgendaTelefone.exe
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\bin\Debug\net6.0\AgendaTelefone.deps.json
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\bin\Debug\net6.0\AgendaTelefone.runtimeconfig.json
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\bin\Debug\net6.0\AgendaTelefone.dll
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\bin\Debug\net6.0\AgendaTelefone.pdb
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.dll
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\refint\AgendaTelefone.dll
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.pdb
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\AgendaTelefone.genruntimeconfig.cache
+C:\Andreza\front\ED2I4\ED2I4\AgendaTelefone\obj\Debug\net6.0\ref\AgendaTelefone.dll
