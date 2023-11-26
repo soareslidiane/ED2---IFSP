@@ -1,0 +1,13 @@
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\bin\Debug\netcoreapp3.1\ProjetoTransporte.exe
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\bin\Debug\netcoreapp3.1\ProjetoTransporte.deps.json
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\bin\Debug\netcoreapp3.1\ProjetoTransporte.runtimeconfig.json
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\bin\Debug\netcoreapp3.1\ProjetoTransporte.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\bin\Debug\netcoreapp3.1\ProjetoTransporte.dll
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\bin\Debug\netcoreapp3.1\ProjetoTransporte.pdb
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.AssemblyInfo.cs
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.dll
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.pdb
+C:\Users\Philc\Desktop\Ed\ProjetoTransporte\ProjetoTransporte\obj\Debug\netcoreapp3.1\ProjetoTransporte.genruntimeconfig.cache
