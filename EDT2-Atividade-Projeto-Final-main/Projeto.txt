@@ -1,0 +1,31 @@
+*Equipamento
+-int id
+-bool avariado
+-bool locado
+
+*Equipamentos
+-TipoEquipamento tipoequipamento
+-list<TipoEquipamento>
++Incluir()
++Buscar()
+
+*TipoEquipamento
+-int id
+string nome
+-list<Equipamento>
++incluir()
++buscar()
+
+*ContratoLocacao
+-int id
+-bool liberado
+-datetime saida
+-datetime retorno
+-Stack<TipoEquipamento>
+-TipoEquipamento tipoEquipamento
++incluir()
++buscar()
+
+*ContratoLocacoes
+-list<ContratoLocacao>
++incluir()

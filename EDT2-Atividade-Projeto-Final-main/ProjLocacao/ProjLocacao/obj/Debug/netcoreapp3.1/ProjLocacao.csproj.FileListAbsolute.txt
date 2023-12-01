@@ -1,0 +1,13 @@
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjLocacao.exe
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjLocacao.deps.json
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjLocacao.runtimeconfig.json
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjLocacao.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjLocacao.dll
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjLocacao.pdb
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.AssemblyInfo.cs
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.dll
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.pdb
+C:\Users\Philc\Desktop\teste\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjLocacao.genruntimeconfig.cache
